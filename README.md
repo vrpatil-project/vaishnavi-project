@@ -1,2 +1,2 @@
-# vaishnavi-project
-This is my git repository
+# vaishnavi-project-1
+This is my first repository
